@@ -13,5 +13,5 @@ var data = {
         }
     ]
 }
-var choices = " ";
+var choices = "";
 new Chart(context).Bar(data,choices);
