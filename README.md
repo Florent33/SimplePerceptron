@@ -1,3 +1,3 @@
 #SimplePerceptron
 
-Réalisé par Florent FERRAND et Yann-Cédric MORATINOS
+Réalisés par Florent FERRAND et Yann-Cédric MORATINOS
