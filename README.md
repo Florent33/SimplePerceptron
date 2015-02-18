@@ -1,1 +1,3 @@
-#SimpePerceptron
+#SimplePerceptron
+
+Réalisé par Florent FERRAND
